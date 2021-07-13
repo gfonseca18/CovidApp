@@ -4,7 +4,7 @@ Android Covid Project for educational propose
 Introduction
 
 Native Android Implementation of COVID TRACKER using Android SDK
-
+https://github.com/gfonseca18/CovidApp/issues/1#issue-943870656
 
 Pre Requisites
 
